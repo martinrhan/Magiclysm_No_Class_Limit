@@ -6,7 +6,7 @@
     "authors": [ "martinrhan" ],
     "maintainers": [ "martinrhan" ],
     "description": "Remove limitation of conflict spell classes.",
-    "category": "content",
+    "category": "rebalance",
     "dependencies": [ "magiclysm" ]
   }
 ]
