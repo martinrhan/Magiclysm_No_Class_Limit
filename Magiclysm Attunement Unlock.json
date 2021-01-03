@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ARTIFICER",
+    "type": "mutation",
+    "copy-from": "ARTIFICER",
+    "cancels": []
+  },
+  {
+    "id": "AURA_MAGE",
+    "type": "mutation",
+    "copy-from": "AURA_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "BIOTEK",
+    "type": "mutation",
+    "copy-from": "BIOTEK",
+    "cancels": []
+  },
+  {
+    "id": "BLOOD_MAGE",
+    "type": "mutation",
+    "copy-from": "BLOOD_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "BOREAL_MAGE",
+    "type": "mutation",
+    "copy-from": "BOREAL_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "CLEANSING_FLAME",
+    "type": "mutation",
+    "copy-from": "CLEANSING_FLAME",
+    "cancels": []
+  },
+  {
+    "id": "CRUSADER",
+    "type": "mutation",
+    "copy-from": "CRUSADER",
+    "cancels": []
+  },
+  {
+    "id": "EARTH_ELEMENTAL",
+    "type": "mutation",
+    "copy-from": "EARTH_ELEMENTAL",
+    "cancels": []
+  },
+  {
+    "id": "FIRE_ELEMENTAL",
+    "type": "mutation",
+    "copy-from": "FIRE_ELEMENTAL",
+    "cancels": []
+  },
+  {
+    "id": "FORCE_MAGE",
+    "type": "mutation",
+    "copy-from": "FORCE_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "GAIAS_CHOSEN",
+    "type": "mutation",
+    "copy-from": "GAIAS_CHOSEN",
+    "cancels": []
+  },
+  {
+    "id": "GLACIER_MAGE",
+    "type": "mutation",
+    "copy-from": "GLACIER_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "GOLEMANCER",
+    "type": "mutation",
+    "copy-from": "GOLEMANCER",
+    "cancels": []
+  },
+  {
+    "id": "GRAVITY_MAGE",
+    "type": "mutation",
+    "copy-from": "GRAVITY_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "OVERCLOCKER",
+    "type": "mutation",
+    "copy-from": "OVERCLOCKER",
+    "cancels": []
+  },
+  {
+    "id": "ICE_ELEMENTAL",
+    "type": "mutation",
+    "copy-from": "ICE_ELEMENTAL",
+    "cancels": []
+  },
+  {
+    "id": "ILLUSIONIST",
+    "type": "mutation",
+    "copy-from": "ILLUSIONIST",
+    "cancels": []
+  },
+  {
+    "id": "MAGNETISM_MAGE",
+    "type": "mutation",
+    "copy-from": "MAGNETISM_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "PERMAFROST_MAGE",
+    "type": "mutation",
+    "copy-from": "PERMAFROST_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "RADIATION_MAGE",
+    "type": "mutation",
+    "copy-from": "RADIATION_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "SHAMAN",
+    "type": "mutation",
+    "copy-from": "SHAMAN",
+    "cancels": []
+  },
+  {
+    "id": "SHAPESHIFTER",
+    "type": "mutation",
+    "copy-from": "SHAPESHIFTER",
+    "cancels": []
+  },
+  {
+    "id": "SOULFIRE",
+    "type": "mutation",
+    "copy-from": "SOULFIRE",
+    "cancels": []
+  },
+  {
+    "id": "STORM_ELEMENTAL",
+    "type": "mutation",
+    "copy-from": "STORM_ELEMENTAL",
+    "cancels": []
+  },
+  {
+    "id": "STORMCALLER",
+    "type": "mutation",
+    "copy-from": "STORMCALLER",
+    "cancels": []
+  },
+  {
+    "id": "SUN_MAGE",
+    "type": "mutation",
+    "copy-from": "SUN_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "TUNDRA_MAGE",
+    "type": "mutation",
+    "copy-from": "TUNDRA_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "VOID_MAGE",
+    "type": "mutation",
+    "copy-from": "VOID_MAGE",
+    "cancels": []
+  },
+  {
+    "id": "VULCANIST",
+    "type": "mutation",
+    "copy-from": "VULCANIST",
+    "cancels": []
+  },
+  {
+    "id": "WITHER_MAGE",
+    "type": "mutation",
+    "copy-from": "WITHER_MAGE",
+    "cancels": []
+  }
+]
