@@ -6,9 +6,9 @@
     "cancels": []
   },
   {
-    "id": "AURA_MAGE",
+    "id": "ALCHEMIST",
     "type": "mutation",
-    "copy-from": "AURA_MAGE",
+    "copy-from": "ALCHEMIST",
     "cancels": []
   },
   {
