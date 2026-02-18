@@ -1,7 +1,7 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "magiclysm_no_class_limit",
+    "id": "magiclysm_no_class_limit",
     "name": "Magiclysm No Class Limit",
     "authors": [ "martinrhan" ],
     "maintainers": [ "martinrhan" ],
